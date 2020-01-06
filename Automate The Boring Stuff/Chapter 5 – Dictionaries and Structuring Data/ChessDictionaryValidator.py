@@ -37,4 +37,5 @@ chessBoard = {
     '8h': 'bqueen',
     '3e': 'wking'
 }
+
 print(isValidChessBoard(chessBoard))
